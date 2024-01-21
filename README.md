@@ -1,5 +1,5 @@
-#Link Shortener 
-#Creating own URL Shortener service website.
+# Link Shortener 
+# Creating own URL Shortener service website.
 This project is all about to build short URLs using an API. 
 
 
