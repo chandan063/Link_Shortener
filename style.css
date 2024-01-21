@@ -1,5 +1,6 @@
+/* body styling starts here */
 .body {
-    background-color: #3498db; /* Updated background color */
+    background-color: #3498db; 
     margin: 0;
 
 }
@@ -46,7 +47,7 @@
     width: 80%;
     height: 48px;
     border-radius: 20px;
-    border: solid 1px #3498db; /* Updated border color */
+    border: solid 1px #3498db; 
     margin-bottom: 20px;
     padding: 0 20px;
     font-size: 20px;
@@ -58,14 +59,14 @@
     padding: 5px;
     margin-bottom: 20px;
     font-size: 20px;
-    background-color: #3498db; /* Updated background color */
+    background-color: #3498db; 
     color: #fff;
     border: solid 1px #fff;
     border-radius: 20px;
 }
 
 .wrap_btn:hover {
-    background-color: #2980b9; /* Darker shade on hover */
+    background-color: #2980b9; 
 }
 
 .wrap_result {
